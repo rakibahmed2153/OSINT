@@ -47,3 +47,7 @@ PentestTools: https://pentest-tools.com
 Shodan: https://shodan.io
 Wayback Machine: https://web.archive.org
 OpenCorporates: https://opencorporates.com
+
+git clone https://github.com/megadose/holehe.git
+cd holehe/
+python3 setup.py install
